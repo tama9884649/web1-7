@@ -6,11 +6,11 @@ padding:0;
 }
 
 body{
-background-color: gray;
+background-color: gold;
 margin: 48px 0 0 0;
 }
 header{
-background-color: orange;
+background-color: pink;
 position: fixed;
 left: 0;
 top: 0;
@@ -18,13 +18,13 @@ width: 100%;
 z-index +1;
 }
 #main{
-  background-color: white;
+  background-color: lime;
   width: calc(100% - 200px);
   min-width: 500px;
   float: left;
 }
 .box{
-  background-color: red;
+  background-color: cyan;
   color: black;
   width: 240px;
   height: 80px;
@@ -33,16 +33,16 @@ z-index +1;
   overflow: hidden;
 }
 #mainl{
-background-color: green;
+background-color: olive;
 width: 500px;
 }
 #main2{
-background-color: yellow;
+background-color: brown;
 width: 500px;
 float: left;
 }
 aside{
-background-color: blue;
+background-color: indigo;
 width: 200px;
 float: right;
 position: relative;
@@ -50,12 +50,12 @@ top: 20px;
 right: 10px;
 }
 footer{
-background-color: purple;
+background-color: beige;
 clear: both;
 }
 #good_picture{
   width: 24px;
-  position; absolute;
+  position: absolute;
   left: 50px;
   top: 50px;
 }
