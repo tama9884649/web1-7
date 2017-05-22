@@ -24,6 +24,7 @@ background-color: orange;
   height: 80px;
   margin: 5px;
   float: left;
+  overflow: hidden;
 }
 #mainl{
 background-color: green;
