@@ -17,12 +17,15 @@ width: 500px;
 }
 #main2{
 background-color: yellow;
-width: 500px;  
+width: 500px;
+float: left;
 }
 aside{
 background-color: blue;
-width: 200px;    
+width: 200px;
+float: right;
 }
 footer{
 background-color: purple;
+clear: both;
 }
