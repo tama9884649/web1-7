@@ -17,6 +17,13 @@ background-color: orange;
   min-width: 500px;
   float: left;
 }
+.box{
+  background-color: red;
+  color: black;
+  width: 240px;
+  margin: 5px;
+  float: left;
+}
 #mainl{
 background-color: green;
 width: 500px;
